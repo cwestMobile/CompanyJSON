@@ -1,24 +1,197 @@
 {
-  "heading": "How sApp works?",
-  "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
-  "workData": [
-    {
-      "id": 1,
-      "image": "/img/work_thumb_1.png",
-      "title": "Install the App",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
-    },
-    {
-      "id": 2,
-      "image": "/img/work_thumb_2.png",
-      "title": "Setup your profile",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
-    },
-    {
-      "id": 3,
-      "image": "/img/work_thumb_3.png",
-      "title": "Enjoy the features!",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
-    }
-  ]
+  "themeOneFeatureSection": {
+    "preHeading": "Premium",
+    "preHeadingspan": "Features",
+    "heading": "What Makes sApp Different?",
+    "headingTwo": "Explore Premium Features",
+    "headingThree": "Why Small Business Owner's Loves sApp",
+    "headingFour": "Why choose sApp?",
+    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+    "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+    "featureThumb": "/img/features_thumb.png",
+    "featureData": [
+      {
+        "id": 1,
+        "image": "/img/featured_image_1.png",
+        "title": "Fully functional",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 2,
+        "image": "/img/featured_image_2.png",
+        "title": "Live Chat",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 3,
+        "image": "/img/featured_image_3.png",
+        "title": "Secure Data",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      }
+    ],
+    "featureData_1": [
+      {
+        "id": 1,
+        "image": "/img/featured_image_4.png",
+        "title": "Easy to Customize",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 2,
+        "image": "/img/featured_image_5.png",
+        "title": "Responsive Design",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 3,
+        "image": "/img/featured_image_6.png",
+        "title": "Help Documentation",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      }
+    ],
+    "featureDataTwo": [
+      {
+        "id": 1,
+        "iconClass": "flaticon-tap",
+        "title": "Fully functional",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 2,
+        "iconClass": "flaticon-fingerprint",
+        "title": "Fingerprint Data",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 3,
+        "iconClass": "flaticon-notification",
+        "title": "Tap Notification",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 4,
+        "iconClass": "flaticon-place",
+        "title": "Location Tracking",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 5,
+        "iconClass": "flaticon-settings",
+        "title": "Powerful Settings",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 6,
+        "iconClass": "flaticon-language",
+        "title": "Multiple Language",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      }
+    ]
+  },
+  "themeOneServiceSection": {
+    "heading": "Make your Device Manage Everything For you",
+    "headingTwo": "Share your photos with friends easily",
+    "headingThree": "Smart and secure mobile banking",
+    "headingFour": "More productivity with less effort",
+    "headingFive": "Organize all your media content easily",
+    "headingSix": "Work faster with powerful filters",
+    "headingSeven": "Stay connected with all of your friends",
+    "buttonText": "Learn More",
+    "thumbOne": "/img/features_thumb.png",
+    "thumbTwo": "/img/service_thumb_2.png",
+    "thumbThree": "/img/welcome_mockup_2.png",
+    "thumbFour": "/img/discover_thumb.png",
+    "thumbFive": "/img/service_thumb_1.png",
+    "thumbSix": "/img/discover_thumb_2.png",
+    "serviceData": [
+      {
+        "id": 1,
+        "iconClass": "fab fa-buffer",
+        "text": "Fully layered dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+      },
+      {
+        "id": 2,
+        "iconClass": "fas fa-brush",
+        "text": "Customizable design dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+      },
+      {
+        "id": 3,
+        "iconClass": "fas fa-burn",
+        "text": "Drop ipsum dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+      },
+      {
+        "id": 4,
+        "iconClass": "fas fa-cart-arrow-down",
+        "text": "Marketing chart dolor sit amet, consectetur adipisicing elit. Facere, nobis, id expedita dolores officiis laboriosam."
+      }
+    ]
+  },
+  "themeOneDiscoverSection": {
+    "heading": "Easily communicate with clients using sApp.",
+    "headingTwo": "Work faster with powerful tools.",
+    "headingThree": "More productivity with less effort",
+    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique dolor ut iusto vitae autem neque eum ipsam, impedit asperiores vel cumque laborum dicta repellendus inventore voluptatibus et explicabo nobis unde.",
+    "thumbOne": "/img/discover_thumb.png",
+    "thumbTwo": "/img/discover_thumb_3.png",
+    "discoverData": [
+      {
+        "id": 1,
+        "iconClass": "fas fa-check",
+        "text": "Combined with a handful of model sentence structures looks reasonable."
+      },
+      {
+        "id": 2,
+        "iconClass": "fas fa-check",
+        "text": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+      },
+      {
+        "id": 3,
+        "iconClass": "fas fa-check",
+        "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium."
+      },
+      {
+        "id": 4,
+        "iconClass": "fas fa-check",
+        "text": "All the Lorem Ipsum generators on the Internet tend to repeat necessary."
+      }
+    ],
+    "discoverIcon": [
+      {
+        "id": 1,
+        "iconClass": "fas fa-bell"
+      },
+      {
+        "id": 2,
+        "iconClass": "fas fa-envelope-open"
+      },
+      {
+        "id": 3,
+        "iconClass": "fas fa-video"
+      }
+    ]
+  },
+  "themeOneWorkSection": {
+    "heading": "How sApp works?",
+    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+    "workData": [
+      {
+        "id": 1,
+        "image": "/img/work_thumb_1.png",
+        "title": "Install the App",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+      },
+      {
+        "id": 2,
+        "image": "/img/work_thumb_2.png",
+        "title": "Setup your profile",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+      },
+      {
+        "id": 3,
+        "image": "/img/work_thumb_3.png",
+        "title": "Enjoy the features!",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
+      }
+    ]
+  }
 }
