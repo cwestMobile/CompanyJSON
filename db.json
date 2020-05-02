@@ -2,7 +2,7 @@
   "themeOneFeatureSection": {
     "preHeading": "Premium",
     "preHeadingspan": "Features",
-    "heading": "What Makes sApp Different?",
+    "heading": "What Can Aviato Provide For You?",
     "headingTwo": "Explore Premium Features",
     "headingThree": "Why Small Business Owner's Loves sApp",
     "headingFour": "Why choose sApp?",
@@ -13,19 +13,37 @@
       {
         "id": 1,
         "image": "/img/featured_image_1.png",
-        "title": "Fully functional",
+        "title": "Social Networking",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
       },
       {
         "id": 2,
         "image": "/img/featured_image_2.png",
-        "title": "Live Chat",
+        "title": "Advanced Analytics",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
       },
       {
         "id": 3,
         "image": "/img/featured_image_3.png",
         "title": "Secure Data",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 4,
+        "image": "/img/featured_image_1.png",
+        "title": "Beautiful Design",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 5,
+        "image": "/img/featured_image_2.png",
+        "title": "Clean Animations",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
+      },
+      {
+        "id": 6,
+        "image": "/img/featured_image_3.png",
+        "title": "And More!",
         "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis culpa expedita dignissimos."
       }
     ],
