@@ -177,19 +177,19 @@
       {
         "id": 1,
         "image": "/img/work_thumb_1.png",
-        "title": "Discuss Your Goals",
+        "title": "Discuss and Design",
         "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
       },
       {
         "id": 2,
         "image": "/img/work_thumb_2.png",
-        "title": "Design and Build Application",
+        "title": "Direction and Develop",
         "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
       },
       {
         "id": 3,
         "image": "/img/work_thumb_3.png",
-        "title": "Deploy and enjoy!",
+        "title": "Deploy and Enjoy!",
         "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
       }
     ]
