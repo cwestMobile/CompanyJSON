@@ -183,17 +183,11 @@
       {
         "id": 2,
         "image": "/img/work_thumb_2.png",
-        "title": "Design Together",
+        "title": "Design and Build Application",
         "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
       },
       {
         "id": 3,
-        "image": "/img/work_thumb_3.png",
-        "title": "Develop Software",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
-      },
-      {
-        "id": 4,
         "image": "/img/work_thumb_3.png",
         "title": "Deploy and enjoy!",
         "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius saepe, voluptates quis enim incidunt obcaecati?"
