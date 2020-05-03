@@ -218,13 +218,13 @@
     "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
     "teamData": [
       {
-        "id": 1,
+        "id": 2,
         "image": "/img/avatar-1.png",
         "title": "Casey West",
         "teamPost": "Co-Founder & Coder"
       },
       {
-        "id": 2,
+        "id": 3,
         "image": "/img/avatar-2.png",
         "title": "Yessica West",
         "teamPost": "Co-Founder & Designer"
