@@ -218,13 +218,13 @@
     "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
     "teamData": [
       {
-        "id": 2,
+        "id": 1,
         "image": "/img/avatar-1.png",
         "title": "Casey West",
         "teamPost": "Co-Founder & Coder"
       },
       {
-        "id": 3,
+        "id": 2,
         "image": "/img/avatar-2.png",
         "title": "Yessica West",
         "teamPost": "Co-Founder & Designer"
@@ -233,18 +233,6 @@
     "teamIcons": [
       {
         "id": 1,
-        "iconClass": "fab fa-facebook-f"
-      },
-      {
-        "id": 2,
-        "iconClass": "fab fa-twitter"
-      },
-      {
-        "id": 3,
-        "iconClass": "fab fa-google-plus-g"
-      },
-      {
-        "id": 4,
         "iconClass": "fab fa-linkedin-in"
       }
     ]
